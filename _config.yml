@@ -1,0 +1,14 @@
+layout_spectrum: 0.7968467632308602
+typography_spectrum: 0.16445998684503138
+color:
+  brandStrength: 0.4191187301184982
+  lightness: 0.6555069079622626
+  saturation: 0.822121148230508
+  rhythmicContrast: 0.8783996128477156
+  brandColors:
+    - '#17BEBB'
+    - '#2E282A'
+    - '#CD5334'
+    - '#EDB88B'
+    - '#FAD8D6'
+name: EED
